@@ -1,0 +1,18 @@
+.box{
+    height: 50px;
+    width: 100%;
+    background-color: Tomato;
+}
+.loginbut{
+    float: right;
+    margin-right: 20px;
+    width: 5%;
+    height: 30px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: #009CB8;
+    border-radius: 10px;
+    border-color: tomato;
+    color:white
+
+}
